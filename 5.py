@@ -1,0 +1,1 @@
+print(bool(21.21),bool(-21.21),bool(0))
